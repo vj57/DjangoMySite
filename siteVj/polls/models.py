@@ -1,3 +1,4 @@
+#added functions to class question and choice
 import datetime
 from django.db import models
 from django.utils import timezone
